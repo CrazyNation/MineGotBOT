@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('Sprite is Online to Bomb!')
+    console.log('MineGotBOT is Online!')
 }
